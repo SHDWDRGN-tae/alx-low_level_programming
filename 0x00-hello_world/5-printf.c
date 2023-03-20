@@ -2,8 +2,8 @@
 
 /**
  * main - print short string phrase
- * when sucessful
- * Return(): 0 when (successful)
+ *
+ * Return: 0 when (successful)
  */
 
 int main(void)
