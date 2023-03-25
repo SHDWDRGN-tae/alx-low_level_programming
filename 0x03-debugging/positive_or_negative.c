@@ -3,7 +3,7 @@
 /**
   * positive_or_negative - test if positive or negative
   *
-  * 0: is the number to be tested
+  * @i: is the number to be tested
   *
   * Return: 0
   */
