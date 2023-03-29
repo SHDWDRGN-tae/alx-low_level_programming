@@ -2,7 +2,6 @@
 
 /**
  * main - check the code
- * print_rev - function parameter to be tested
  *
  * Return: Always 0.
  */
